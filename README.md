@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MiracleDcoder
+- 👋 Hi, I’m @TechGirrli
+- Also known as @Miracle
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Linux, Python
 - 💞️ I’m looking to collaborate on Security Penetration
