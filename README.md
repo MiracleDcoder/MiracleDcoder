@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechGirrli
 - Also known as @Miracle
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Linux, Python
+- 🌱 I’m currently learning Linux, Python and SOC Analytics
 - 💞️ I’m looking to collaborate on Security Penetration
 - 📫 How to reach me @olorunsolamiracle
 - 😄 Pronouns: She/Her
